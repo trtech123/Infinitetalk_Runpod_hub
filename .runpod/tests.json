@@ -1,0 +1,15 @@
+{
+  "tests": [
+    {
+      "name": "validation_text_input",
+      "input": {
+        "input_type": "image",
+        "person_count": "single",
+        "prompt": "A person talking naturally",
+        "width": 512,
+        "height": 512
+      },
+      "timeout": 300000
+    }
+  ]
+}
